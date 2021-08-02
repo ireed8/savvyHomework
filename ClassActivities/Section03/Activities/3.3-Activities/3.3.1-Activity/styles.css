@@ -1,0 +1,43 @@
+* {
+  border: 10px solid
+}
+
+head {
+  Margin: 80px;
+  background-color: crimson;
+}
+
+h2 {
+  padding-top: 80px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  color:blueviolet;
+  background-color: cornflowerblue;
+}
+
+h1 {
+  color: brown;
+  background: honeydew;
+}
+
+
+ol {
+  color:seagreen;
+  font-style: italic;
+  font-size:x-large;
+}
+
+div {
+  padding: 10px;
+  font-stretch: narrower;
+  font-size: xx-large;
+  color: deepskyblue;
+  background: gold;
+}
+
+
+
+ol :hover {
+  color: brown;
+}30
