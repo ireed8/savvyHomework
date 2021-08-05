@@ -34,3 +34,7 @@ div {
 #pro {
   width: auto;
 }
+
+@media (max-width: 800px) {
+}
+
